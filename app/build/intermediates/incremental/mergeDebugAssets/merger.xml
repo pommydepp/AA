@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/assets"><file name="recipes.json" path="/Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/assets/recipes.json"/></source><source path="/Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/debug/assets"/></dataSet></merger>

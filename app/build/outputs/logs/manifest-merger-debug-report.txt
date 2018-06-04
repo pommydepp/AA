@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d51f812dc144b7bc849b0bc7c6fc30f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pommy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fe687b91faf7b79d85606371ad9dcec6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7603aa823c821fd43f96acd0d6faaced/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e7189716c843da977fa5e9ae72f5703a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/46a5f582a9a63ab7894afe8589f5344d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9242c282b521d174536cf079ba010664/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a87345bc92eebae2346b11048cf31b31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5a7494c2c1b70fc4ec2b740ce778e646/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2cb19866c8ed09123ae0125283c36d50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6eb934a4bdd6b89e051000c60cf3e576/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8feb28e4464c951b6e0f962532fae9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/266916c0895cde08281ea92af6e73d94/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:3:3-52
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:5:20-62
+application
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:7:3-22:17
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pommy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fe687b91faf7b79d85606371ad9dcec6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pommy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fe687b91faf7b79d85606371ad9dcec6/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:12:5-31
+	android:label
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:10:5-37
+	android:roundIcon
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:11:5-50
+	android:icon
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:9:5-39
+	android:allowBackup
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:8:5-31
+	android:theme
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:13:5-36
+activity#com.raywenderlich.android.alltherecipes.MainActivity
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:14:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:18:19-66
+activity#com.raywenderlich.android.alltherecipes.RecipeDetailActivity
+ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:21:5-63
+	android:name
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml:21:15-51
+uses-sdk
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d51f812dc144b7bc849b0bc7c6fc30f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d51f812dc144b7bc849b0bc7c6fc30f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pommy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fe687b91faf7b79d85606371ad9dcec6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pommy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fe687b91faf7b79d85606371ad9dcec6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7603aa823c821fd43f96acd0d6faaced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7603aa823c821fd43f96acd0d6faaced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e7189716c843da977fa5e9ae72f5703a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e7189716c843da977fa5e9ae72f5703a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/46a5f582a9a63ab7894afe8589f5344d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/46a5f582a9a63ab7894afe8589f5344d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9242c282b521d174536cf079ba010664/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9242c282b521d174536cf079ba010664/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a87345bc92eebae2346b11048cf31b31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a87345bc92eebae2346b11048cf31b31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5a7494c2c1b70fc4ec2b740ce778e646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/pommy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5a7494c2c1b70fc4ec2b740ce778e646/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2cb19866c8ed09123ae0125283c36d50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2cb19866c8ed09123ae0125283c36d50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6eb934a4bdd6b89e051000c60cf3e576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6eb934a4bdd6b89e051000c60cf3e576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8feb28e4464c951b6e0f962532fae9ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8feb28e4464c951b6e0f962532fae9ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/266916c0895cde08281ea92af6e73d94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/pommy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/266916c0895cde08281ea92af6e73d94/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pommy/Downloads/AllTheRecipes 2/SoccerGuru/app/src/main/AndroidManifest.xml

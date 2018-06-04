@@ -1,0 +1,174 @@
+{
+  "recipes": [
+    {
+      "title": "Manchester City",
+      "image" : "https://i.imgur.com/zbNNVxv.png",
+      "url": "http://www.mancity.com",
+      "description": "Etihad Stadium",
+      "servings": 4,
+      "dietLabel": "100"
+    },
+
+    {
+      "title": "Manchester United",
+      "image" : "https://i.imgur.com/h6LP8oR.png",
+      "url": "http://www.manutd.com",
+      "description": "Old Trafford",
+      "servings": 4,
+      "dietLabel": "81"
+    },
+
+    {
+      "title": "Tottenham Hotspur",
+      "image" : "https://i.imgur.com/HU1s0Dh.png",
+      "url": "http://www.tottenhamhotspur.com",
+      "description": "Wembley Stadium",
+      "servings": 4,
+      "dietLabel": "77"
+    },
+
+    {
+      "title": "Liverpool",
+      "image" : "https://i.imgur.com/TkKAXRJ.png",
+      "url": "http://www.liverpoolfc.com",
+      "description": "Anfield",
+      "servings": 4,
+      "dietLabel": "75"
+    },
+
+    {
+      "title": "Chelsea",
+      "image" : "https://i.imgur.com/ThGcmyb.png",
+      "url": "http://www.chelseafc.com ",
+      "description": "Stamford Bridge",
+      "servings": 4,
+      "dietLabel": "70"
+
+    },
+
+    {
+      "title": "Arsenal",
+      "image" : "https://i.imgur.com/MA17sEb.png",
+      "url": "http://www.arsenal.com",
+      "description": "Emirates Stadium",
+      "servings": 12,
+      "dietLabel": "63"
+    },
+
+    {
+      "title": "Burnley",
+      "image" : "https://i.imgur.com/JV5UVnJ.png",
+      "url": "http://www.burnleyfootballclub.com",
+      "description": "Turf Moor",
+      "servings": 42,
+      "dietLabel": "54"
+    },
+
+    {
+      "title": "Everton",
+      "image" : "https://i.imgur.com/4v1olds.png",
+      "url": "http://www.evertonfc.com",
+      "description": "Goodison Park",
+      "servings": 10,
+      "dietLabel": "49"
+    },
+
+    {
+      "title": "Leicester City",
+      "image" : "https://i.imgur.com/PWXtufm.png",
+      "url": "http://www.lcfc.com",
+      "description": "King Power Stadium",
+      "servings": 6,
+      "dietLabel": "47"
+    },
+
+    {
+      "title": "Newcastle United",
+      "image" : "https://i.imgur.com/iONKKIs.png",
+      "url": "http://www.nufc.co.uk",
+      "description": "St. James' Park",
+      "servings": 8,
+      "dietLabel": "44"
+    },
+    {
+      "title": "Crystal Palace",
+      "image" : "https://i.imgur.com/ef6bGiX.png",
+      "url": "http://www.cpfc.co.uk",
+      "description": "Selhurst Park",
+      "servings": 8,
+      "dietLabel": "44"
+    },
+    {
+      "title": "AFC Bournemouth",
+      "image" : "https://i.imgur.com/ooRlJqr.png",
+      "url": "http://www.afcb.co.uk",
+      "description": "Vitality Stadium",
+      "servings": 8,
+      "dietLabel": "44"
+    },
+    {
+      "title": "West Ham United",
+      "image" : "https://i.imgur.com/Vjwpvke.png",
+      "url": "http://www.whufc.com",
+      "description": "london Stadium",
+      "servings": 8,
+      "dietLabel": "42"
+    },
+    {
+      "title": "Watford",
+      "image" : "https://i.imgur.com/flsvcBf.png",
+      "url": "http://www.watfordfc.com",
+      "description": "Vicarage Road",
+      "servings": 8,
+      "dietLabel": "41"
+    },
+    {
+      "title": "Brighton & Hove Albion fc",
+      "image" : "https://i.imgur.com/F6IM9Hp.png",
+      "url": "http://www.brightonandhovealbion.com",
+      "description": "Amex Stadium",
+      "servings": 8,
+      "dietLabel": "40"
+    },
+    {
+      "title": "Huddersfield Town",
+      "image" : "https://i.imgur.com/2zh4GTY.png",
+      "url": "http://www.htafc.com",
+      "description": "John Smith's Stadium",
+      "servings": 8,
+      "dietLabel": "37"
+    },
+    {
+      "title": "Southampton",
+      "image" : "https://i.imgur.com/Sy1rfBf.png",
+      "url": "http://www.southamptonfc.com",
+      "description": "St. Mary's Stadium",
+      "servings": 8,
+      "dietLabel": "36"
+    },
+    {
+      "title": "Swansea City",
+      "image" : "https://i.imgur.com/0i8edc6.png",
+      "url": "http://www.swanseacity.com",
+      "description": "Liberty Stadium",
+      "servings": 8,
+      "dietLabel": "33"
+    },
+    {
+      "title": "Stoke City",
+      "image" : "https://i.imgur.com/TaD146f.png",
+      "url": "http://www.stokecityfc.com",
+      "description": "bet365 Stadium",
+      "servings": 8,
+      "dietLabel": "33"
+    },
+    {
+      "title": "West Bromwich Albion fc",
+      "image" : "https://i.imgur.com/89afVoZ.png",
+      "url": "http://www.wba.co.uk",
+      "description": "The Hawthorns",
+      "servings": 8,
+      "dietLabel": "31"
+    }
+  ]
+}
